@@ -1,0 +1,16 @@
+@font-face {
+  font-family: ClearSans;
+  src: 
+    local('Clear Sans Regular'),
+    local('ClearSans-Regular'),
+    url('./ClearSans-Regular.ttf');
+}
+
+@font-face {
+  font-family: ClearSans;
+  font-weight: medium;
+  src:
+    local('Clear Sans medium'),
+    local('ClearSans-medium'),
+    url('./ClearSans-Medium.ttf');
+}

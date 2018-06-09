@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 產生 yellow-circles-contact-v2.svg yellow-circles-contact -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.07127in" height="8.32321in"
+		viewBox="0 0 581.131 599.271" xml:space="preserve" color-interpolation-filters="sRGB" class="st4">
+	<v:documentProperties v:langID="1028" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#fece40;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st2 {fill:none;stroke:#fece40;stroke-linecap:butt;stroke-width:1.7775}
+		.st3 {fill:none;stroke:#fece40;stroke-linecap:butt;stroke-width:2.9625}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>yellow-circles-contact</title>
+		<v:pageProperties v:drawingScale="1" v:pageScale="1" v:drawingUnits="19" v:shadowOffsetX="9" v:shadowOffsetY="-9"/>
+		<g id="group1-1" transform="translate(20.9625,-18.75)" v:mID="1" v:groupContext="group">
+			<title>工作表.1</title>
+			<g id="shape2-2" v:mID="2" v:groupContext="shape" transform="translate(270.331,-7.95808E-013)">
+				<title>工作表.2</title>
+				<ellipse cx="135.544" cy="463.466" rx="135.544" ry="135.805" class="st1"/>
+			</g>
+			<g id="shape3-4" v:mID="3" v:groupContext="shape" transform="translate(3.85435,-285.873)">
+				<title>工作表.3</title>
+				<path d="M135.54 599.27 C60.68 599.27 0 538.47 0 463.47 C0 388.46 60.68 327.66 135.54 327.66 C210.4 327.66 271.09
+							 388.46 271.09 463.47 C271.09 538.47 210.4 599.27 135.54 599.27 Z" class="st2"/>
+			</g>
+			<g id="shape4-6" v:mID="4" v:groupContext="shape" transform="translate(0,-284.986)">
+				<title>工作表.4</title>
+				<ellipse cx="137.025" cy="461.985" rx="137.025" ry="137.286" class="st3"/>
+			</g>
+		</g>
+	</g>
+</svg>

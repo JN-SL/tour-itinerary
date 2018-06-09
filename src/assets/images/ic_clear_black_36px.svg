@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="70" viewBox="0 0 70 70">
+  <defs>
+    <circle id="ic_clear_black_36px-b" cx="16" cy="16" r="16"/>
+    <filter id="ic_clear_black_36px-a" width="412.5%" height="412.5%" x="-156.2%" y="-112.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="10"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.19 0"/>
+      <feOffset dy="8" in="SourceAlpha" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation="8.5"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" opacity=".876" transform="translate(19 13)">
+    <use fill="#000" filter="url(#ic_clear_black_36px-a)" xlink:href="#ic_clear_black_36px-b"/>
+    <use fill="#FFF" xlink:href="#ic_clear_black_36px-b"/>
+    <polygon fill="#000F15" fill-rule="nonzero" points="23 10.41 21.59 9 16 14.59 10.41 9 9 10.41 14.59 16 9 21.59 10.41 23 16 17.41 21.59 23 23 21.59 17.41 16" opacity=".759"/>
+    <polygon points="4 4 28 4 28 28 4 28"/>
+  </g>
+</svg>

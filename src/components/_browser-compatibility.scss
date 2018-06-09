@@ -1,0 +1,27 @@
+@mixin display-flex {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: flex;
+}
+
+@mixin justify-content($position) {
+  -webkit-justify-content: $position;
+     -moz-justify-content: $position;
+      -ms-justify-content: $position;
+          justify-content: $position;
+}
+
+@mixin align-items($position) {
+  -webkit-align-items: $position;
+     -moz-align-items: $position;
+      -ms-align-items: $position;
+          align-items: $position;
+}
+
+@mixin flex-flow($dir) {
+  -webkit-flex-flow: $dir;
+     -moz-flex-flow: $dir;
+      -ms-flex-flow: $dir;
+          flex-flow: $dir;
+}

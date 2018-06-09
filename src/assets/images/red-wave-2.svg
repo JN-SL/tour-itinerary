@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="452" height="136" viewBox="0 0 452 136">
+  <defs>
+    <filter id="red-wave-2-a" width="109%" height="107.6%" x="-4.5%" y="-3.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="8.5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.19 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <path fill="#E27268" fill-rule="evenodd" d="M39.8283203,597.566832 C148.887305,571.573212 248.232161,583.826272 337.862891,634.326012 C366.266945,650.329422 417.128552,661.1693 456.627148,656.197461 C506.098101,649.970363 543.291506,623.911707 559.6,608.942773 C587.237321,583.575548 618.83239,536.579667 623.35,550.754297 C632.661828,579.971451 548.491522,734.704141 514.012109,737.982848 C491.025834,740.168652 423.999793,735.962923 312.933984,725.36566 L0.3,698.862926 L39.8283203,597.566832 Z" filter="url(#red-wave-2-a)" transform="translate(-113 -541)"/>
+</svg>

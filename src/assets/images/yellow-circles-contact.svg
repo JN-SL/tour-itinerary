@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="520" viewBox="0 0 1500 520">
+  <defs>
+    <rect id="yellow-circles-contact-a" width="1677" height="519.842" rx="4"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(-115)">
+    <mask id="yellow-circles-contact-b" fill="#fff">
+      <use xlink:href="#yellow-circles-contact-a"/>
+    </mask>
+    <ellipse cx="1001.692" cy="521.03" fill="#FECE40" mask="url(#yellow-circles-contact-b)" rx="180.725" ry="181.073"/>
+    <path stroke="#FECE40" stroke-width="2.37" d="M646.388798,320.938801 C546.577323,320.938801 465.664136,239.869712 465.664136,139.865922 C465.664136,39.8621323 546.577323,-41.2069572 646.388798,-41.2069572 C746.200273,-41.2069572 827.113461,39.8621323 827.113461,139.865922 C827.113461,239.869712 746.200273,320.938801 646.388798,320.938801 Z" mask="url(#yellow-circles-contact-b)"/>
+    <ellipse cx="643.225" cy="139.073" stroke="#FECE40" stroke-width="3.95" mask="url(#yellow-circles-contact-b)" rx="182.7" ry="183.048"/>
+  </g>
+</svg>

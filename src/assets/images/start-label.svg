@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="115" viewBox="0 0 96 115">
+  <g fill="none" fill-rule="evenodd" transform="translate(-11)">
+    <polygon fill="#A42115" points="8.316 56.77 32.992 71.772 60.989 99.349 24.83 99.349" transform="rotate(45 34.652 78.06)"/>
+    <polygon fill="#A42115" points="11.316 59.77 35.992 74.772 63.989 102.349 27.83 102.349" transform="rotate(45 37.652 81.06)"/>
+    <rect width="96" height="88.705" x="11" fill="#DB4C3F" rx="7.045"/>
+    <text fill="#FFF" font-family="HiraginoSans-W6, Hiragino Sans" font-size="31" font-weight="500">
+      <tspan x="27" y="56">開始</tspan>
+    </text>
+  </g>
+</svg>
