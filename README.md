@@ -1,6 +1,6 @@
 # tour-itinerary
 
-> A colorful tour itinerary
+> One-time-used tour itinerary
 
 ## Build Setup
 
